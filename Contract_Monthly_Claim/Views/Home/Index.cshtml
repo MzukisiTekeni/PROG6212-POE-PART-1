@@ -1,0 +1,153 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<head>
+    <link rel="stylesheet" href="~/css/HomepageStyle.css" asp-append-version="true" />
+</head>
+
+<body>
+    <div class="homeContent">
+
+        <div class="leftSection">
+
+            <div class="cards">
+                <div class="card">Paid<br><span class="card4">1</span></div>
+                <div class="card">Pending<br><span class="card1">2</span></div>
+                <div class="card">Approved<br><span class ="card2">2</span></div>
+                <div class="card">Rejected<br><span class="card3"> 2</span></div>
+               
+            </div>
+
+            <div class="claimsSection">
+                <p>
+                    <strong>Summary of your Claims:</strong>
+
+                    <table>
+                        <tr>
+                            
+                            <th>Claim ID</th>
+                            <th>Date</th>
+                            <th>Status</th>
+                            <th>Amount</th>
+                        </tr>
+                        <tr>
+                            <td>#100</td>
+                            <td>2 January 2025</td>
+                            <td>Paid</td>
+                            <td>R 5200</td>
+                            
+                        </tr>
+                        <tr>
+                            <td>#101</td>
+                            <td>1 February 2025</td>
+                            <td>Pending</td>
+                            <td>R 6000</td>
+                            
+                        </tr>
+                        <tr>
+                            <td>#103</td>
+                            <td>7 March 2025</td>
+                            <td>Rejected</td>
+                            <td>R 500</td>
+
+                        </tr>
+                        <tr>
+                            <td>#104</td>
+                            <td>16 April 2025</td>
+                            <td>Pending</td>
+                            <td>R 6000</td>
+
+                        </tr>
+                        <tr>
+                            <td>#105</td>
+                            <td>25 May 2025</td>
+                            <td>Approved</td>
+                            <td>R 6000</td>
+
+                        </tr>
+
+                        <tr>
+                            <td>#106</td>
+                            <td>1 June 2025</td>
+                            <td>Rejected</td>
+                            <td>R 800</td>
+
+                        </tr>
+
+                        <tr>
+                            <td>#107</td>
+                            <td>1 July 2025</td>
+                            <td>Approved</td>
+                            <td>R 10000</td>
+
+                        </tr>
+                        <tr>
+                            <td>#108</td>
+                            <td>1 August 2025</td>
+                            <td>Approved</td>
+                            <td>R 100</td>
+
+                        </tr>
+                        <tr>
+                            <td>#109</td>
+                            <td>13 September 2025</td>
+                            <td>Pending</td>
+                            <td>R 70000</td>
+
+                        </tr>
+                        <tr>
+                            <td>#110</td>
+                            <td>3 October 2025</td>
+                            <td>Approved</td>
+                            <td>R 9000</td>
+
+                        </tr>
+                    </table>
+
+                </p>
+
+                <div class="ButtonsSection">
+                    <button class="btnSubmitClaim">
+                        Submit New Claim
+                    </button>
+
+                    
+                    <button class="btnUploadDocs">
+                        Upload Documents
+                    </button>
+                </div>
+            </div>
+        </div>
+
+       <div class="rightSection">
+
+            <div class="notificationSection">
+                <p>
+                    <strong>Notifications:</strong> 
+                    <ul>
+                        <li>
+                            <p>Your Claim #100 has been successfully paid</p>
+                        </li>
+                        <li>
+                            <p>Your Claim #101 is missing some documents</p>
+                        </li>
+                        <li>
+                            <p>Your Claim #106 has been has been rejected</p>
+                        </li>
+                        <li>
+                            <p>Your Claim #105 has been approved</p>
+                        </li>
+                    </ul>
+                    
+                </p>
+            </div>
+       </div>
+
+        
+    </div>
+   
+
+</body>
+
+
+

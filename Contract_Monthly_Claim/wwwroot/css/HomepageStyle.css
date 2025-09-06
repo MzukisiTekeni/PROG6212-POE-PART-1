@@ -1,0 +1,124 @@
+﻿body
+{
+    margin:0;
+    padding:0;
+    background-color: rgb(245, 242, 242);
+}
+
+.homeContent {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    height: 100vh;
+}
+
+.leftSection 
+{
+    display: flex;
+    flex-direction: column;
+    padding: 10px 10px 10px 10px;
+    margin-top:10px;
+}
+.rightSection {
+    
+    display:flex;
+    flex-direction:column;
+    
+}
+
+.cards 
+{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+    margin-left: 0px;
+    margin-top: 8px;
+}
+.card 
+{
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: bold;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+    .card span {
+        display: block;
+        margin-top: 10px;
+        font-size: 20px;
+        
+    }
+.card1
+{
+    color:rgb(220, 193, 44);
+}
+.card2 {
+    color: green;
+}
+.card3 {
+    color: red;
+}
+.card4 {
+    color: blue;
+}
+.claimsSection 
+{
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    margin-top: 20px;
+    flex: 1;
+    padding: 10px 10px 10px 10px;
+}
+
+.notificationSection {
+    flex:1;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    margin-top: 30px;
+    margin-bottom: 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 90%;
+}
+
+th, td {
+    border-bottom: 1px solid lightgray; 
+    padding: 8px;
+    text-align: center;
+}
+
+tr:last-child td {
+    border-bottom: none;
+}
+
+ul li::marker {
+    color: lightgray; 
+}
+
+.btnSubmitClaim {
+    padding: 6px 10px 6px 10px;
+    background-color: #254667;
+    color: #ecf0f1;
+    border:none;
+    border-radius:5px;
+    margin-left:60px;
+}
+.btnUploadDocs {
+    padding: 6px 10px 6px 10px;
+    background-color: #254667;
+    color: #ecf0f1;
+    border: none;
+    border-radius: 5px;
+    margin-left: 590px;
+}
+.ButtonsSection {
+    display: flex;
+    background: white;
+    margin-top:40px;
+}

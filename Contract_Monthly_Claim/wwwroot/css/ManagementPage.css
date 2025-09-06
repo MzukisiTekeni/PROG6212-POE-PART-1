@@ -1,0 +1,220 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(245, 242, 242);
+}
+
+.sidebar {
+    height: 100vh;
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #254667;
+    color: #ecf0f1;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.profile {
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.profilepic {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.userdetails {
+    margin-top: 14px;
+}
+
+.sidebar ul {
+    list-style-type: none;
+    width: 100%;
+    padding-left: 35px;
+}
+
+    .sidebar ul li {
+        width: 100%;
+    }
+
+        .sidebar ul li a {
+            display: flex;
+            align-items: center;
+            padding: 15px 20px;
+            text-decoration: none;
+            color: #ecf0f1;
+            font-size: 18px;
+            width: 100%;
+            transition: background-color 0.3s ease;
+        }
+
+            .sidebar ul li a:hover {
+                background-color: #34495e;
+                width:60%;
+            }
+
+        .sidebar ul li i {
+            margin-right: 10px;
+        }
+
+.managementContainer {
+   
+    margin-left: 250px;
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    height: 100vh;
+}
+
+.LeftSection {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 10px 10px 10px;
+    margin-top: 10px;
+    flex:5fr;
+}
+
+.RightSection {
+    display: flex;
+    flex-direction: column;
+}
+.ClaimSummarySection {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    margin-top: 5px;
+    flex: 1;
+    padding: 0px 10px 10px 10px;
+    
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 15px;
+    margin-left: 0px;
+    margin-top: 8px;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+    .card span {
+        display: block;
+        margin-top: 10px;
+        font-size: 20px;
+    }
+
+.card1 {
+    color: rgb(220, 193, 44);
+}
+
+.card2 {
+    color: green;
+}
+
+.card3 {
+    color: red;
+}
+
+.card4 {
+    color: blue;
+}
+.card5
+{
+    color:black;
+}
+.ClaimsSection {
+    flex: 3;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    margin-top: 20px;
+    margin-bottom: 2px;
+    padding: 10px 10px 10px 10px;
+    
+}
+.claimTop
+{
+    display:flex;
+    flex-direction:row;
+    row-gap:20px;
+    
+}
+.selectonList {
+    margin-left: 30px;
+    margin-top:20px;
+    height:30px;
+}
+.claimGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    margin-left: 0px;
+    margin-top: 8px;
+    row-gap: 30px;
+}
+
+.Claim {
+    border: 2px solid #254667;
+    border-radius: 5px;
+    height: 100px;
+    width: 150px;
+    padding: 10px 3px 10px 10px;
+}
+.btnApprove {
+    margin-top: 5px;
+    padding: 6px 10px 6px 10px;
+    background-color: #254667;
+    color: #ecf0f1;
+    border: none;
+    border-radius: 5px;
+}
+.btnReject {
+    margin-top:5px;
+    padding: 6px 10px 6px 10px;
+    background-color: #254667;
+    color: #ecf0f1;
+    border: none;
+    border-radius: 5px;
+   margin-left:10px;
+}
+
+.notificationSection {
+    flex:1;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    margin-top: 25px;
+    margin-bottom:0;
+    padding: 10px 10px 10px 10px;
+}
+ul li::marker {
+    color: lightgray;
+}
+.ClaimValueSection {
+    flex:1;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 10px 10px 10px 40px;
+}
+.notificationSection h3
+{
+    padding-left:25px;
+}
+

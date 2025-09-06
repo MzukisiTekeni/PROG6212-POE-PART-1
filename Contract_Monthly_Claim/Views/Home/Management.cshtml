@@ -1,0 +1,291 @@
+﻿@{
+    ViewData["Title"] = "Management";
+    Layout = null;
+}
+<head>
+    <link rel="stylesheet" href="~/css/ManagementPage.css" asp-append-version="true" />
+ </head>
+<body>
+    <header>
+
+        <nav class="sidebar">
+            <div class="profile">
+                <div>
+                    <img class="profilepic" src="~/Images/myprofilepic.jpg"/>
+                </div>
+
+                <div class="userdetails">
+                    <p><strong>Luzuko Tekeni</strong></p>
+                    <p><strong>Academic Manager</strong></p>
+                </div>
+
+            </div>
+
+            <ul>
+                <li><a href="#"><i class="fa-solid fa-gauge"></i>  Dashboard</a></li>
+                <li><a href="#"> <i class="fa-solid fa-file-circle-plus"></i> View Claims</a></li>
+                <li><a href="#"><i class="fa-solid fa-bell"></i> Notifications</a></li>
+                <li><a href="#"><i class="fa fa-sign-out" aria-hidden="true"></i>Sign out</a></li>
+            </ul>
+        </nav>
+
+    </header>
+
+    <div class="managementContainer">
+        
+        <div class="LeftSection">
+
+            <div class="ClaimSummarySection">
+                <h3>Claim Statistics</h3>
+
+                <div class="cards">
+                    <div class="card">Total Claims<br><span class="card5">26</span></div>
+                    <div class="card">Paid<br><span class="card4">12</span></div>
+                    <div class="card">Pending<br><span class="card1">8</span></div>
+                    <div class="card">Approved<br><span class="card2">4</span></div>
+                    <div class="card">Rejected<br><span class="card3"> 2</span></div>
+
+                </div>
+
+            </div>
+
+            
+            <div class="ClaimsSection">
+                
+                <div class="claimTop">
+                    <h3>Claims</h3>
+                    <select class="selectonList">
+                        <option>Pending</option>
+                        <option>All</option>
+                        <option>Approved</option>
+                        <option>Rejected</option>
+                        <option>Paid</option>
+                    </select>
+                </div>
+               
+                <div class="claimGrid">
+
+                    <div class="Claim">
+                        <div>Mzukisi Tekeni</div>
+                        <div>Status: Pending</div>
+                        <div>Claim date: 05/09/25</div>
+                        <div><a href="#">View details</a></div>
+                        <div claimButtons>
+                            <button class="btnApprove">Approve</button>
+                            <button class="btnReject">Reject</button>
+                        </div>
+
+                    </div>
+
+                    <div class="Claim">
+                        <div>Mzukisi Tekeni</div>
+                        <div>Status: Pending</div>
+                        <div>Claim date: 05/09/25</div>
+                        <div><a href="#">View details</a></div>
+                        <div claimButtons>
+                            <button class="btnApprove">Approve</button>
+                            <button class="btnReject">Reject</button>
+                        </div>
+
+                    </div>
+
+                    <div class="Claim">
+                        <div>Mzukisi Tekeni</div>
+                        <div>Status: Pending</div>
+                        <div>Claim date: 05/09/25</div>
+                        <div><a href="#">View details</a></div>
+                        <div claimButtons>
+                            <button class="btnApprove">Approve</button>
+                            <button class="btnReject">Reject</button>
+                        </div>
+
+                    </div>
+
+                    <div class="Claim">
+                        <div>Mzukisi Tekeni</div>
+                        <div>Status: Pending</div>
+                        <div>Claim date: 05/09/25</div>
+                        <div><a href="#">View details</a></div>
+                        <div claimButtons>
+                            <button class="btnApprove">Approve</button>
+                            <button class="btnReject">Reject</button>
+                        </div>
+
+                    </div>
+
+                    <div class="Claim">
+                        <div>Mzukisi Tekeni</div>
+                        <div>Status: Pending</div>
+                        <div>Claim date: 05/09/25</div>
+                        <div><a href="#">View details</a></div>
+                        <div claimButtons>
+                            <button class="btnApprove">Approve</button>
+                            <button class="btnReject">Reject</button>
+                        </div>
+
+                    </div>
+
+                    <div class="Claim">
+                        <div>Mzukisi Tekeni</div>
+                        <div>Status: Pending</div>
+                        <div>Claim date: 05/09/25</div>
+                        <div><a href="#">View details</a></div>
+                        <div claimButtons>
+                            <button class="btnApprove">Approve</button>
+                            <button class="btnReject">Reject</button>
+                        </div>
+
+                    </div>
+
+                    <div class="Claim">
+                        <div>Mzukisi Tekeni</div>
+                        <div>Status: Pending</div>
+                        <div>Claim date: 05/09/25</div>
+                        <div><a href="#">View details</a></div>
+                        <div claimButtons>
+                            <button class="btnApprove">Approve</button>
+                            <button class="btnReject">Reject</button>
+                        </div>
+
+                    </div>
+
+
+                    <div class="Claim">
+                        <div>Mzukisi Tekeni</div>
+                        <div>Status: Pending</div>
+                        <div>Claim date: 05/09/25</div>
+                        <div><a href="#">View details</a></div>
+                        <div claimButtons>
+                            <button class="btnApprove">Approve</button>
+                            <button class="btnReject">Reject</button>
+                        </div>
+
+                    </div>
+                    <div class="Claim">
+                        <div>Mzukisi Tekeni</div>
+                        <div>Status: Pending</div>
+                        <div>Claim date: 05/09/25</div>
+                        <div><a href="#">View details</a></div>
+                        <div claimButtons>
+                            <button class="btnApprove">Approve</button>
+                            <button class="btnReject">Reject</button>
+                        </div>
+
+                    </div>
+                    <div class="Claim">
+                        <div>Mzukisi Tekeni</div>
+                        <div>Status: Pending</div>
+                        <div>Claim date: 05/09/25</div>
+                        <div><a href="#">View details</a></div>
+                        <div claimButtons>
+                            <button class="btnApprove">Approve</button>
+                            <button class="btnReject">Reject</button>
+                        </div>
+
+                    </div>
+                    <div class="Claim">
+                        <div>Mzukisi Tekeni</div>
+                        <div>Status: Pending</div>
+                        <div>Claim date: 05/09/25</div>
+                        <div><a href="#">View details</a></div>
+                        <div claimButtons>
+                            <button class="btnApprove">Approve</button>
+                            <button class="btnReject">Reject</button>
+                        </div>
+
+                    </div>
+                    <div class="Claim">
+                        <div>Mzukisi Tekeni</div>
+                        <div>Status: Pending</div>
+                        <div>Claim date: 05/09/25</div>
+                        <div><a href="#">View details</a></div>
+                        <div claimButtons>
+                            <button class="btnApprove">Approve</button>
+                            <button class="btnReject">Reject</button>
+                        </div>
+
+                    </div>
+                    <div class="Claim">
+                        <div>Mzukisi Tekeni</div>
+                        <div>Status: Pending</div>
+                        <div>Claim date: 05/09/25</div>
+                        <div><a href="#">View details</a></div>
+                        <div claimButtons>
+                            <button class="btnApprove">Approve</button>
+                            <button class="btnReject">Reject</button>
+                        </div>
+
+                    </div>
+
+                </div>
+                
+
+
+            </div>
+
+        </div>
+
+        <div class="RightSection">
+
+            <div class="NotificationSection">
+                <h3>Notifications</h3>
+
+                <p>
+                    <ul>
+                        <li>
+                            <p>Your Claim #100 has been successfully paid</p>
+                        </li>
+                        <li>
+                            <p>Your Claim #101 is missing some documents</p>
+                        </li>
+                        <li>
+                            <p>Your Claim #106 has been has been rejected</p>
+                        </li>
+                        <li>
+                            <p>Your Claim #105 has been approved</p>
+                        </li>
+                    </ul>
+
+                </p>
+
+            </div>
+
+            <div class="ClaimValueSection">
+                <h3>Claim value</h3>
+               <p>
+
+                    <div>
+                        <strong>Total Claim Value</strong>
+                        <p>R 120000</p>
+                    </div>
+
+                    <div>
+                        <strong>Pending Claim Value</strong>
+                        <p>R 120000</p>
+                    </div>
+
+                    <div>
+                        <strong>Approved Claim Value</strong>
+                        <p>R 20000</p>
+                    </div>
+
+                    <div>
+                        <strong>Rejected Claim Value</strong>
+                        <p>R 30000</p>
+                    </div>
+
+                    <div>
+                        <strong>Paid Claim Value</strong>
+                        <p>R 70000</p>
+                    </div>
+
+                </p>
+            </div>
+
+        </div>
+        
+    </div>
+
+    </body>
+
+ 
