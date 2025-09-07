@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RC_Student_lab\\source\\repos\\Contract_Monthly_Claim\\Contract_Monthly_Claim.csproj",
+      "projectUniqueName": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\Contract_Monthly_Claim.csproj",
       "projectName": "Contract_Monthly_Claim",
-      "projectPath": "C:\\Users\\RC_Student_lab\\source\\repos\\Contract_Monthly_Claim\\Contract_Monthly_Claim.csproj",
+      "projectPath": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\Contract_Monthly_Claim.csproj",
       "packagesPath": "C:\\Users\\RC_Student_lab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RC_Student_lab\\source\\repos\\Contract_Monthly_Claim\\obj\\",
+      "outputPath": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

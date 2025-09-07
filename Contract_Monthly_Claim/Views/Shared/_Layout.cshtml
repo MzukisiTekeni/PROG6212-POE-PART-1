@@ -30,7 +30,7 @@
 
             <ul>
                 <li><a href="#"><i class="fa-solid fa-gauge"></i>  Dashboard</a></li>
-                <li><a href="#"> <i class="fa-solid fa-file-circle-plus"></i> New Claim</a></li>
+                <li><a href="#" id="openLogin"> <i class="fa-solid fa-file-circle-plus"></i> New Claim</a></li>
                 <li><a href="#"><i class="fa-solid fa-bell"></i> Notifications</a></li>
                 <li><a href="#"><i class="fa fa-sign-out" aria-hidden="true"></i>Sign out</a></li>
             </ul>
@@ -44,6 +44,24 @@
         </main>
     </div>
 
+    <!-- Login Modal -->
+    <div id="loginModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Submit Claim</h2>
+            <form method="post" action="/Account/Login">
+                <label>Username</label>
+                <input type="text" name="Username" placeholder="Enter Username" required />
+
+                <label>Password</label>
+                <input type="password" name="Password" placeholder="Enter Password" required />
+
+                <button type="submit">Login</button>
+            </form>
+        </div>
+    </div>
+
+    
     
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
