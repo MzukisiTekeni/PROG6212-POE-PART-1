@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZVgSolMBY97ea7BABkn/1PFcjt6nAAHtrADyzZ9cVVA=",
+  "Hash": "p62FE0KQY11QSfSVP8nxjhrWIbKIV935DmidGYrbMiI=",
   "Source": "Contract_Monthly_Claim",
   "BasePath": "_content/Contract_Monthly_Claim",
   "Mode": "Default",
@@ -206,12 +206,12 @@
       "OriginalItemSpec": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\Debug\\net9.0\\compressed\\5knrkvlh7p-wku8cj7xvu.gz",
+      "Identity": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\Debug\\net9.0\\compressed\\5knrkvlh7p-ta21kmntjj.gz",
       "SourceId": "Contract_Monthly_Claim",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Contract_Monthly_Claim",
-      "RelativePath": "css/site#[.{fingerprint=wku8cj7xvu}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=ta21kmntjj}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -220,8 +220,8 @@
       "RelatedAsset": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "vf5tum5ng4",
-      "Integrity": "NTmNubjiI1bIDwWyc9YxZdXtGqEk8y97vm2AiqjEIGE=",
+      "Fingerprint": "8m93lo57zb",
+      "Integrity": "cPg5fCyGkwU3v2eW53b45EzbydqxmwJT/B9kBK738mI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\wwwroot\\css\\site.css"
@@ -437,12 +437,12 @@
       "OriginalItemSpec": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\Debug\\net9.0\\compressed\\eqab27u8r5-yyhc2mmwuq.gz",
+      "Identity": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\Debug\\net9.0\\compressed\\eqab27u8r5-z10ut8mu2b.gz",
       "SourceId": "Contract_Monthly_Claim",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Contract_Monthly_Claim",
-      "RelativePath": "css/ManagementPage#[.{fingerprint=yyhc2mmwuq}]?.css.gz",
+      "RelativePath": "css/ManagementPage#[.{fingerprint=z10ut8mu2b}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -451,8 +451,8 @@
       "RelatedAsset": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\wwwroot\\css\\ManagementPage.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "lf62g0uoa5",
-      "Integrity": "EX0jAbW4lFZ4cl8NCFINXfIhLN6a8sjEkxmlQ1OpiRE=",
+      "Fingerprint": "twfpo754v0",
+      "Integrity": "zQAXorsyuOwRfK1ySEaL01Sd7YEg1rTKop8XINMOcSI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\wwwroot\\css\\ManagementPage.css"
@@ -1480,8 +1480,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "yyhc2mmwuq",
-      "Integrity": "+p8vbizbbZZN01bu9fg7WV63VhRJpLACqN6Eovv/1BQ=",
+      "Fingerprint": "z10ut8mu2b",
+      "Integrity": "x5imSZVmmPFzKHX/50RX9daO2NAE2d/1tarKZevETWE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\ManagementPage.css"
@@ -1501,8 +1501,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wku8cj7xvu",
-      "Integrity": "MEvV26pd5+/u+R6tyCZaVgflTNNkuh664C3Y2gxSI+8=",
+      "Fingerprint": "ta21kmntjj",
+      "Integrity": "5R2CIFny08sBabDxehnJUkFR1HzdtPSSskBxEzoOoPQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -3728,7 +3728,7 @@
     },
     {
       "Route": "css/ManagementPage.css",
-      "AssetFile": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\Debug\\net9.0\\compressed\\eqab27u8r5-yyhc2mmwuq.gz",
+      "AssetFile": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\Debug\\net9.0\\compressed\\eqab27u8r5-z10ut8mu2b.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3747,11 +3747,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EX0jAbW4lFZ4cl8NCFINXfIhLN6a8sjEkxmlQ1OpiRE=\""
+          "Value": "\"zQAXorsyuOwRfK1ySEaL01Sd7YEg1rTKop8XINMOcSI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 03 Sep 2025 13:44:58 GMT"
+          "Value": "Sun, 07 Sep 2025 09:13:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3771,13 +3771,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+p8vbizbbZZN01bu9fg7WV63VhRJpLACqN6Eovv/1BQ=\""
+          "Value": "W/\"x5imSZVmmPFzKHX/50RX9daO2NAE2d/1tarKZevETWE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+p8vbizbbZZN01bu9fg7WV63VhRJpLACqN6Eovv/1BQ="
+          "Value": "sha256-x5imSZVmmPFzKHX/50RX9daO2NAE2d/1tarKZevETWE="
         }
       ]
     },
@@ -3792,7 +3792,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3906"
+          "Value": "3904"
         },
         {
           "Name": "Content-Type",
@@ -3800,11 +3800,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+p8vbizbbZZN01bu9fg7WV63VhRJpLACqN6Eovv/1BQ=\""
+          "Value": "\"x5imSZVmmPFzKHX/50RX9daO2NAE2d/1tarKZevETWE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 03 Sep 2025 13:44:58 GMT"
+          "Value": "Sun, 07 Sep 2025 09:13:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3814,13 +3814,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+p8vbizbbZZN01bu9fg7WV63VhRJpLACqN6Eovv/1BQ="
+          "Value": "sha256-x5imSZVmmPFzKHX/50RX9daO2NAE2d/1tarKZevETWE="
         }
       ]
     },
     {
       "Route": "css/ManagementPage.css.gz",
-      "AssetFile": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\Debug\\net9.0\\compressed\\eqab27u8r5-yyhc2mmwuq.gz",
+      "AssetFile": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\Debug\\net9.0\\compressed\\eqab27u8r5-z10ut8mu2b.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3837,11 +3837,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EX0jAbW4lFZ4cl8NCFINXfIhLN6a8sjEkxmlQ1OpiRE=\""
+          "Value": "\"zQAXorsyuOwRfK1ySEaL01Sd7YEg1rTKop8XINMOcSI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 03 Sep 2025 13:44:58 GMT"
+          "Value": "Sun, 07 Sep 2025 09:13:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3859,13 +3859,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EX0jAbW4lFZ4cl8NCFINXfIhLN6a8sjEkxmlQ1OpiRE="
+          "Value": "sha256-zQAXorsyuOwRfK1ySEaL01Sd7YEg1rTKop8XINMOcSI="
         }
       ]
     },
     {
-      "Route": "css/ManagementPage.yyhc2mmwuq.css",
-      "AssetFile": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\Debug\\net9.0\\compressed\\eqab27u8r5-yyhc2mmwuq.gz",
+      "Route": "css/ManagementPage.z10ut8mu2b.css",
+      "AssetFile": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\Debug\\net9.0\\compressed\\eqab27u8r5-z10ut8mu2b.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3884,11 +3884,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EX0jAbW4lFZ4cl8NCFINXfIhLN6a8sjEkxmlQ1OpiRE=\""
+          "Value": "\"zQAXorsyuOwRfK1ySEaL01Sd7YEg1rTKop8XINMOcSI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 03 Sep 2025 13:44:58 GMT"
+          "Value": "Sun, 07 Sep 2025 09:13:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3908,13 +3908,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+p8vbizbbZZN01bu9fg7WV63VhRJpLACqN6Eovv/1BQ=\""
+          "Value": "W/\"x5imSZVmmPFzKHX/50RX9daO2NAE2d/1tarKZevETWE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yyhc2mmwuq"
+          "Value": "z10ut8mu2b"
         },
         {
           "Name": "label",
@@ -3922,12 +3922,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+p8vbizbbZZN01bu9fg7WV63VhRJpLACqN6Eovv/1BQ="
+          "Value": "sha256-x5imSZVmmPFzKHX/50RX9daO2NAE2d/1tarKZevETWE="
         }
       ]
     },
     {
-      "Route": "css/ManagementPage.yyhc2mmwuq.css",
+      "Route": "css/ManagementPage.z10ut8mu2b.css",
       "AssetFile": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\wwwroot\\css\\ManagementPage.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3937,7 +3937,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3906"
+          "Value": "3904"
         },
         {
           "Name": "Content-Type",
@@ -3945,11 +3945,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+p8vbizbbZZN01bu9fg7WV63VhRJpLACqN6Eovv/1BQ=\""
+          "Value": "\"x5imSZVmmPFzKHX/50RX9daO2NAE2d/1tarKZevETWE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 03 Sep 2025 13:44:58 GMT"
+          "Value": "Sun, 07 Sep 2025 09:13:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3959,7 +3959,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yyhc2mmwuq"
+          "Value": "z10ut8mu2b"
         },
         {
           "Name": "label",
@@ -3967,13 +3967,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+p8vbizbbZZN01bu9fg7WV63VhRJpLACqN6Eovv/1BQ="
+          "Value": "sha256-x5imSZVmmPFzKHX/50RX9daO2NAE2d/1tarKZevETWE="
         }
       ]
     },
     {
-      "Route": "css/ManagementPage.yyhc2mmwuq.css.gz",
-      "AssetFile": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\Debug\\net9.0\\compressed\\eqab27u8r5-yyhc2mmwuq.gz",
+      "Route": "css/ManagementPage.z10ut8mu2b.css.gz",
+      "AssetFile": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\Debug\\net9.0\\compressed\\eqab27u8r5-z10ut8mu2b.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3990,11 +3990,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EX0jAbW4lFZ4cl8NCFINXfIhLN6a8sjEkxmlQ1OpiRE=\""
+          "Value": "\"zQAXorsyuOwRfK1ySEaL01Sd7YEg1rTKop8XINMOcSI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 03 Sep 2025 13:44:58 GMT"
+          "Value": "Sun, 07 Sep 2025 09:13:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4012,7 +4012,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "yyhc2mmwuq"
+          "Value": "z10ut8mu2b"
         },
         {
           "Name": "label",
@@ -4020,18 +4020,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-EX0jAbW4lFZ4cl8NCFINXfIhLN6a8sjEkxmlQ1OpiRE="
+          "Value": "sha256-zQAXorsyuOwRfK1ySEaL01Sd7YEg1rTKop8XINMOcSI="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\Debug\\net9.0\\compressed\\5knrkvlh7p-wku8cj7xvu.gz",
+      "AssetFile": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\Debug\\net9.0\\compressed\\5knrkvlh7p-ta21kmntjj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001663893511"
+          "Quality": "0.002178649237"
         }
       ],
       "ResponseHeaders": [
@@ -4041,15 +4041,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "600"
+          "Value": "458"
         },
         {
           "Name": "ETag",
-          "Value": "\"NTmNubjiI1bIDwWyc9YxZdXtGqEk8y97vm2AiqjEIGE=\""
+          "Value": "\"cPg5fCyGkwU3v2eW53b45EzbydqxmwJT/B9kBK738mI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 08:59:57 GMT"
+          "Value": "Sun, 07 Sep 2025 09:12:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4069,13 +4069,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MEvV26pd5+/u+R6tyCZaVgflTNNkuh664C3Y2gxSI+8=\""
+          "Value": "W/\"5R2CIFny08sBabDxehnJUkFR1HzdtPSSskBxEzoOoPQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MEvV26pd5+/u+R6tyCZaVgflTNNkuh664C3Y2gxSI+8="
+          "Value": "sha256-5R2CIFny08sBabDxehnJUkFR1HzdtPSSskBxEzoOoPQ="
         }
       ]
     },
@@ -4090,7 +4090,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1616"
+          "Value": "1136"
         },
         {
           "Name": "Content-Type",
@@ -4098,11 +4098,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MEvV26pd5+/u+R6tyCZaVgflTNNkuh664C3Y2gxSI+8=\""
+          "Value": "\"5R2CIFny08sBabDxehnJUkFR1HzdtPSSskBxEzoOoPQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 08:59:57 GMT"
+          "Value": "Sun, 07 Sep 2025 09:12:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4112,13 +4112,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MEvV26pd5+/u+R6tyCZaVgflTNNkuh664C3Y2gxSI+8="
+          "Value": "sha256-5R2CIFny08sBabDxehnJUkFR1HzdtPSSskBxEzoOoPQ="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\Debug\\net9.0\\compressed\\5knrkvlh7p-wku8cj7xvu.gz",
+      "AssetFile": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\Debug\\net9.0\\compressed\\5knrkvlh7p-ta21kmntjj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4127,7 +4127,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "600"
+          "Value": "458"
         },
         {
           "Name": "Content-Type",
@@ -4135,11 +4135,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NTmNubjiI1bIDwWyc9YxZdXtGqEk8y97vm2AiqjEIGE=\""
+          "Value": "\"cPg5fCyGkwU3v2eW53b45EzbydqxmwJT/B9kBK738mI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 08:59:57 GMT"
+          "Value": "Sun, 07 Sep 2025 09:12:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4157,18 +4157,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NTmNubjiI1bIDwWyc9YxZdXtGqEk8y97vm2AiqjEIGE="
+          "Value": "sha256-cPg5fCyGkwU3v2eW53b45EzbydqxmwJT/B9kBK738mI="
         }
       ]
     },
     {
-      "Route": "css/site.wku8cj7xvu.css",
-      "AssetFile": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\Debug\\net9.0\\compressed\\5knrkvlh7p-wku8cj7xvu.gz",
+      "Route": "css/site.ta21kmntjj.css",
+      "AssetFile": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\Debug\\net9.0\\compressed\\5knrkvlh7p-ta21kmntjj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001663893511"
+          "Quality": "0.002178649237"
         }
       ],
       "ResponseHeaders": [
@@ -4178,15 +4178,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "600"
+          "Value": "458"
         },
         {
           "Name": "ETag",
-          "Value": "\"NTmNubjiI1bIDwWyc9YxZdXtGqEk8y97vm2AiqjEIGE=\""
+          "Value": "\"cPg5fCyGkwU3v2eW53b45EzbydqxmwJT/B9kBK738mI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 08:59:57 GMT"
+          "Value": "Sun, 07 Sep 2025 09:12:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4206,13 +4206,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MEvV26pd5+/u+R6tyCZaVgflTNNkuh664C3Y2gxSI+8=\""
+          "Value": "W/\"5R2CIFny08sBabDxehnJUkFR1HzdtPSSskBxEzoOoPQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wku8cj7xvu"
+          "Value": "ta21kmntjj"
         },
         {
           "Name": "label",
@@ -4220,12 +4220,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MEvV26pd5+/u+R6tyCZaVgflTNNkuh664C3Y2gxSI+8="
+          "Value": "sha256-5R2CIFny08sBabDxehnJUkFR1HzdtPSSskBxEzoOoPQ="
         }
       ]
     },
     {
-      "Route": "css/site.wku8cj7xvu.css",
+      "Route": "css/site.ta21kmntjj.css",
       "AssetFile": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4235,7 +4235,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1616"
+          "Value": "1136"
         },
         {
           "Name": "Content-Type",
@@ -4243,11 +4243,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MEvV26pd5+/u+R6tyCZaVgflTNNkuh664C3Y2gxSI+8=\""
+          "Value": "\"5R2CIFny08sBabDxehnJUkFR1HzdtPSSskBxEzoOoPQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 08:59:57 GMT"
+          "Value": "Sun, 07 Sep 2025 09:12:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4257,7 +4257,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wku8cj7xvu"
+          "Value": "ta21kmntjj"
         },
         {
           "Name": "label",
@@ -4265,13 +4265,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MEvV26pd5+/u+R6tyCZaVgflTNNkuh664C3Y2gxSI+8="
+          "Value": "sha256-5R2CIFny08sBabDxehnJUkFR1HzdtPSSskBxEzoOoPQ="
         }
       ]
     },
     {
-      "Route": "css/site.wku8cj7xvu.css.gz",
-      "AssetFile": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\Debug\\net9.0\\compressed\\5knrkvlh7p-wku8cj7xvu.gz",
+      "Route": "css/site.ta21kmntjj.css.gz",
+      "AssetFile": "C:\\Users\\RC_Student_lab\\Documents\\GitHub\\PROG6212-POE-PART-1\\Contract_Monthly_Claim\\obj\\Debug\\net9.0\\compressed\\5knrkvlh7p-ta21kmntjj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4280,7 +4280,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "600"
+          "Value": "458"
         },
         {
           "Name": "Content-Type",
@@ -4288,11 +4288,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NTmNubjiI1bIDwWyc9YxZdXtGqEk8y97vm2AiqjEIGE=\""
+          "Value": "\"cPg5fCyGkwU3v2eW53b45EzbydqxmwJT/B9kBK738mI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 07 Sep 2025 08:59:57 GMT"
+          "Value": "Sun, 07 Sep 2025 09:12:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4310,7 +4310,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wku8cj7xvu"
+          "Value": "ta21kmntjj"
         },
         {
           "Name": "label",
@@ -4318,7 +4318,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NTmNubjiI1bIDwWyc9YxZdXtGqEk8y97vm2AiqjEIGE="
+          "Value": "sha256-cPg5fCyGkwU3v2eW53b45EzbydqxmwJT/B9kBK738mI="
         }
       ]
     },
